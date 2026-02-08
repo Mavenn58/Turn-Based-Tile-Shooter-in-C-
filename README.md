@@ -6,6 +6,6 @@ Each kill is equivalent to 10 points.
 
 How to run:
 - Open terminal
-- Compile through gcc -wall Ching_MP.c run.exe
+- Compile through gcc -wall Ching_MP.c -o run.exe
 - Run by run.exe or ./run.exe for IDEs
 
